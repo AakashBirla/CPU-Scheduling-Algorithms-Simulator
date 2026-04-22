@@ -6,9 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[CPU Scheduling Algorithms Simulator](https://your-username.github.io/cpu-scheduler/)**
-
-> Replace the link above with your actual GitHub Pages URL after deployment.
+🔗 **[CPU Scheduling Algorithms Simulator](https:cpu-scheduling-algorithms-simulator-gray.vercel.app/)**
 
 ---
 
